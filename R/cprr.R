@@ -123,7 +123,7 @@ gender <- function(cpr) {
 
 #' Scramble
 #'
-#' Make "ananymous" random CPR numbers to random numbers.
+#' Make "anonymous" random CPR numbers to random numbers.
 #'
 #' @param cpr Character Vector of CPR numbers with or without hyphens.
 #'
